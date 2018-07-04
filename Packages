@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: Nexus <toxichvh@gmail.com>
 Filename: /NexusPowerAlert.deb
 Size: 4772
-MD5sum: b40038dd33b974216d972b461e99fd60
-SHA1: 812c6a180d848c422c8ec66ef96d6b6f1895e252
-SHA256: 45c0fc9c20c2773c92f894bde660d296a2caa437ec75dc0ce7751effc868729a
+MD5sum: 54d4b8de06d16f29dbb6fdd4cb4aa944
+SHA1: 5f8f8f472645d5f74310af71c773e4f33f2a5dfc
+SHA256: 78e478633766588f5b9078736c201aa1cfa8ee99e8230fa623f9048353a51089
 Section: Tweaks
 Description: First Nexus IOS Cydia Tweak
 Author: Emil Cedendahl <toxichvh@gmail.com>
