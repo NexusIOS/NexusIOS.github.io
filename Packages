@@ -2,7 +2,7 @@ Package: com.nexus_unknown0001.hub
 Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: Nexus <toxichvh@gmail.com>
-Filename: Package_SPPowerDownViewAlert.deb
+Filename: /Package_SPPowerDownViewAlert.deb
 Size: 4756
 MD5sum: 25a059c62ef79fcd6485b9de8c5feb95
 SHA1: 32435a9ae5e4c1c6016a6bafa12408e709aa749d
@@ -10,4 +10,4 @@ SHA256: 163653fe17fbf2c95236dad4735c1cd3e7be60341618fdbca314a6ad0542a2ce
 Section: Tweaks
 Description: First Experimental IOS Tweak
 Author: Nexus Nexus <toxichvh@gmail.com>
-Name: Nexus_PowerDownAlert
+Name: NexusPower
