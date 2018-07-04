@@ -3,11 +3,11 @@ Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: Nexus <toxichvh@gmail.com>
 Filename: /NexusPowerAlert.deb
-Size: 4766 bytes
+Size: 4766
 MD5sum: b40038dd33b974216d972b461e99fd60
 SHA1: 812c6a180d848c422c8ec66ef96d6b6f1895e252
 SHA256: 45c0fc9c20c2773c92f894bde660d296a2caa437ec75dc0ce7751effc868729a
 Section: Tweaks
-Description: First Nexus Tweak
-Author: Nexus <toxichvh@gmail.com>
+Description: First Nexus IOS Cydia Tweak
+Author: Emil Cedendahl <toxichvh@gmail.com>
 Name: NexusPowerAlert
